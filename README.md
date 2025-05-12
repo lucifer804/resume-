@@ -3,19 +3,17 @@
     <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-                 <!-- <title>Document</title> -->
      <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
         </head>
     <body>
-                <!--  <script src="style.js"></script> -->
     <img class="image-gradient" src="gradient.png" alt=" gradient ">
     <div class="layer-blur"></div>
     <div class="container"></div>
     <header>
         <h1 data-aos="fade-right" data-aos-duration="1200" class="logo">AkCODE</h1> 
 
-<nav>
+ <nav>
             <a data-aos="fade-down" data-aos-duration="1800" href="# ">COMPANY</a>
             <a data-aos="fade-down" data-aos-duration="2100" href="#">FEATURES</a>
             <a data-aos="fade-down" data-aos-duration="2400" href="#">RESOURCES</a>
@@ -31,7 +29,6 @@
         data-aos-easing="ease-in-back"
         data-aos-delay="300"
         data-aos-offset="0" data-aos-duration="1500" class="tag-box">
-                                    <!-- WERBAR SHAPED TO INHANCE STYLING  -->
             <div class="tag">INTRODUCING &wedbar;</div>
         </div>
         <h1 data-aos="fade-zoom-in"
