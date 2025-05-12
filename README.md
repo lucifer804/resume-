@@ -1,13 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
-</head>
-<body>
+        </head>
+    <body>
     <script src="style.js"></script>
     <img class="image-gradient" src="gradient.png" alt=" gradient ">
     <div class="layer-blur"></div>
@@ -56,5 +56,5 @@
     <script>
       AOS.init();
     </script>
-</body>
-</html>
+    </body>
+    </html>
