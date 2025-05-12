@@ -3,7 +3,7 @@
     <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+                 <!-- <title>Document</title> -->
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
         </head>
@@ -31,7 +31,7 @@
         data-aos-easing="ease-in-back"
         data-aos-delay="300"
         data-aos-offset="0" data-aos-duration="1500" class="tag-box">
-                                    <!--WERBAR SHAPED TO INHANCE STYLING  -->
+                                    <!-- WERBAR SHAPED TO INHANCE STYLING  -->
             <div class="tag">INTRODUCING &wedbar;</div>
         </div>
         <h1 data-aos="fade-zoom-in"
