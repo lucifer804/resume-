@@ -1,5 +1,5 @@
-    <!DOCTYPE html>
-    <html lang="en">
+<!DOCTYPE html>
+<html lang="en">
     <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -15,14 +15,14 @@
     <header>
         <h1 data-aos="fade-right" data-aos-duration="1200" class="logo">AkCODE</h1> 
 
-        <nav>
+<nav>
             <a data-aos="fade-down" data-aos-duration="1800" href="# ">COMPANY</a>
             <a data-aos="fade-down" data-aos-duration="2100" href="#">FEATURES</a>
             <a data-aos="fade-down" data-aos-duration="2400" href="#">RESOURCES</a>
             <a data-aos="fade-down" data-aos-duration="2700" href="#">DOCS</a>
-        </nav>
+ </nav>
       
-        <button data-aos="fade-left" data-aos-duration="1200" 
+ <button data-aos="fade-left" data-aos-duration="1200" 
         class="btn-signing">SIGNING</button>
     </header>
     <main>
@@ -31,7 +31,7 @@
         data-aos-easing="ease-in-back"
         data-aos-delay="300"
         data-aos-offset="0" data-aos-duration="1500" class="tag-box">
-            <!--WERBAR SHAPED TO INHANCE STYLING  -->
+                                    <!--WERBAR SHAPED TO INHANCE STYLING  -->
             <div class="tag">INTRODUCING &wedbar;</div>
         </div>
         <h1 data-aos="fade-zoom-in"
